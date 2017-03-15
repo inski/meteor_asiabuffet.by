@@ -1,0 +1,18 @@
+.grey.darken-3 {
+  background-color: #212121 !important;
+}
+.about {
+  font-size: 12px !important;
+  line-height: 1em;
+}
+
+.footerBlock {
+  margin-bottom: 0px;
+}
+.dev {
+  font-size: 12px;
+}
+.dev a {
+
+  color: red !important;
+}

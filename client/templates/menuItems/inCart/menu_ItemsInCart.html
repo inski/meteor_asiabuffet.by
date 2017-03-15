@@ -1,0 +1,11 @@
+<template name="menuItemsInCart">
+  <div class="inCartList">
+    {{#each menuItems}}
+    <li>{{> menuItemInCart}}</li>
+    {{/each}}
+  </div>
+
+  <div class="fixed-action-btn" style="bottom: 120px; right: 25%; left: 25%;">
+          <p class="">ВСЕГО: {{price}} BYN.</p>
+</div>
+</template>

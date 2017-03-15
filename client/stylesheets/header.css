@@ -1,0 +1,76 @@
+nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 85px !important;
+    line-height: 85px !important;
+}
+
+.brand-logo {
+    padding-top: 2px !important;
+}
+
+.plus {
+    font-family: Gilroy-Black !important;
+    font-size: 28px !important;
+    color: red !important;
+    margin-left: -14px !important;
+    margin-top: -3px !important;
+}
+.shopping-cart {
+  font-size: 32px !important;
+}
+
+nav a:hover {
+    color: red !important;
+}
+
+.shopping-cart {
+    padding-left: 0;
+}
+
+#total, #totalPrice {
+    font-family: Gilroy-Blackitalic;
+    font-size: 14px;
+    color: black;
+    background-color: red;
+    border-radius: 15px;
+    padding: 4px 6px 2px 4px;
+}
+
+#totalPrice {
+    position: relative;
+    bottom: 16px;
+    right: 10px;
+}
+
+#total {
+    z-index: 3;
+    position: relative;
+    left: 5px;
+    bottom:6px;
+}
+
+.nav-wrapper {
+  padding-left: 20px;
+  padding-right: 0px;
+}
+.workTime {
+  font-size: 12px;
+  margin-left: px;
+  font-family: Gilroy-Medium;
+}
+
+a {
+  font-family: Gilroy-Bold !important;
+}
+.plus span {
+  font-family: Gilroy-Black !important;
+}
+.vok{
+      font-size: 18px !important;
+  font-family: Gilroy-Black !important;
+}
+
+.phone {
+      font-size: 24px !important;
+  padding-left: 30px;
+    font-family: Gilroy-Thin !important;
+}

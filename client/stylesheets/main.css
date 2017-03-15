@@ -1,0 +1,33 @@
+@import url("fonts.css");
+
+@import url("header.css");
+
+@import url("mainMenu.css");
+
+@import url("slideOut.css");
+
+
+
+
+
+a {
+  font-family: Gilroy-Bold !important;
+}
+
+h2{
+  font-family: Gilroy-Regular!important;
+}
+
+h6{
+  font-family: Gilroy-Regular!important;
+  font-size: 32px;
+}
+
+
+p{
+  font-family: Gilroy-Medium;
+}
+
+span{
+  font-family: Gilroy-Medium;
+}

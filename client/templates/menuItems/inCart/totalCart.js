@@ -1,0 +1,3 @@
+var totalCart = function () {
+  {{price}}
+}

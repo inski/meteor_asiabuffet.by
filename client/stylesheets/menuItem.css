@@ -1,0 +1,21 @@
+.card {
+    padding-top: 20px;
+    border-radius: 5px;
+}
+
+.sostav {
+    line-height: 40px;
+    color: black;
+    text-decoration: none;
+}
+
+.card-content>.btn {
+    margin-bottom: 20px;
+}
+
+.card-content>.btn {
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: none;
+    color: black;
+}
